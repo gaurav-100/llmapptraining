@@ -54,7 +54,7 @@ The term Foundation Model as an AI model should follow some criteria, such as,
 - They are very large models, based on very deep neural networks trained on billion of parameters
 - They are normally intended to serve as a `foundation` for other models, meaning they can be used as a starting point for other models to be built on top of, which can be done by fine tuning.
 
-<div style="text-align: center;">
+<p align="center">
     ![FMs and other categories](./images/foundation_models.png)
-</div>
+</p>
 

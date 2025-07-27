@@ -121,4 +121,3 @@ The term Foundation Model as an AI model should follow some criteria, such as,
 ### Trained model
 - Training an LLM from scratch is without a doubt the most difficult and the most complex approach to adopt, requiring massive amounts of data, skilled resources, and appropriate computational power. 
 - This option should be considered only in a scenario where a business has a domain-specific use case and a large amount of domain-centric data.
-

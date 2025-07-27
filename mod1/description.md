@@ -55,6 +55,6 @@ The term Foundation Model as an AI model should follow some criteria, such as,
 - They are normally intended to serve as a `foundation` for other models, meaning they can be used as a starting point for other models to be built on top of, which can be done by fine tuning.
 
 <p align="center">
-    ![FMs and other categories](./images/foundation_models.png)
+    <img src="./images/foundation_models.png">
 </p>
 
